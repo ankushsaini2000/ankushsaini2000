@@ -8,11 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsaini2000&label=Profile%20views&color=0e75b6&style=flat" alt="ankushsaini2000" /> </p>
 
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** **Frontend** **Backend**
 
 - 📫 How to reach me **ankushsaini6500@gmail.com**
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
